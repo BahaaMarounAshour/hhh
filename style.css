@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.div-1 {
+    display: flex;
+    position: relative;
+    padding: 100px 60px;
+color: white;
+    background-color: #2C1A00;
+}
+
+.div-1 img {
+    border-radius: 15px 15px 100px 15px;
+}
+.div-1 .img-1{
+   
+    width: 80%;
+    border-radius: 141px 15px 14px 15px;
+}
+.div-1 .img-2 {
+    height: 80%;
+    position: absolute;
+    left: 35%;
+    top: -8%;  
+}
+.div-1 .img-3 {
+    height: 43%;
+    width: 40%;
+    top: 47%;
+    left: 50%;
+    position: absolute;
+       
+}
